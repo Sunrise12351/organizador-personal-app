@@ -15,3 +15,22 @@ Crear una aplicación gratuita y personalizable que facilite la gestión del tie
 ## Tecnologías propuestas
 - Flutter (multiplataforma)
 - Firebase (opcional para base de datos)
+## Pantallas principales
+
+- **Inicio**: Tareas pendientes, calendario rápido, recordatorios.
+- **Hogar**: Organización de tareas por estancias (cocina, baño, habitaciones).
+- **Estudios**: Lista de tareas, exámenes, repaso.
+- **Ocio y hobbies**: Películas, comidas, salidas.
+- **Calendario**: Vista día, semana, mes, sincronizado con Google Calendar.
+- **Hábitos y salud**: Seguimiento de rutinas, estado de ánimo, notas.
+
+## Tecnologías usadas
+
+- Flutter para el desarrollo multiplataforma.
+- Firebase para almacenamiento y sincronización de datos.
+
+## Futuras mejoras
+
+- Sistema de recompensas con mascota virtual.
+- Modo Pomodoro con seguimiento.
+- Widgets personalizados para Android.
